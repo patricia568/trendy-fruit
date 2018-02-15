@@ -11,7 +11,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  line-height: 1.5;
+
 }
 
 *, *::before, *::after {
@@ -49,4 +49,6 @@ body {
 
 p {
   font-family: 'Comfortaa', cursive;
+  display: inline-block;
+  line-height: 1.7;
 }
