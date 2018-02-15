@@ -11,6 +11,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -42,7 +43,8 @@ html {
 }
 
 body {
-  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 p {
