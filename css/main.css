@@ -29,6 +29,22 @@ html {
   background-color: #e86033;
 }
 
+.box-1 h2 {
+  font-family: 'Rammetto One', cursive;
+}
+
+.box-2 h2 {
+  font-family: 'Gravitas One', cursive;
+}
+
+.box-3 h2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
 body {
   margin: 0;
+}
+
+p {
+  font-family: 'Comfortaa', cursive;
 }
